@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    margin-top: 180px;
+    text-align: center;
+}
+
+.container small {
+    padding-top: 0.15rem;
+}

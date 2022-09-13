@@ -1,0 +1,9 @@
+.container {
+    text-align: center;
+    margin-bottom: 0.75rem;
+    font-size: 1.2em;
+}
+
+.container td, .container th {
+    padding: .15rem;
+}
